@@ -1,3 +1,6 @@
+isImgLoad.js
+==============
+
 Cross domain detect when image loaded.
 
 Rely on jQuery.
