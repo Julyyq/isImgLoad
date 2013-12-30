@@ -5,12 +5,12 @@ Rely on jQuery.
 Usage
 --------------
 
-isImgLoad(src, timeout, callback);
+`isImgLoad(src, timeout, callback);`
 
 Example
 --------------
 
-isImgLoad("http://flickr.com/xxx.jpg", 15, function() {
-  console.log("image loaded!");
-});
+    isImgLoad("http://flickr.com/xxx.jpg", 15, function() {
+      console.log("image loaded!");
+    });
 
